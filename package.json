@@ -1,0 +1,13 @@
+{
+  "name": "hapiAPI",
+  "version": "1.0.0",
+  "description": "API with HAPI",
+  "main": "index.js",
+  "author": "Satish Chilkaka <73182406+Satishchilkaka@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.0",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1"
+  }
+}
